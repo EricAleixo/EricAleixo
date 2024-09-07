@@ -32,7 +32,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/EricAleixo/EricAleixo/output/snake.svg" alt="Snake animation" />
 
 ###
 

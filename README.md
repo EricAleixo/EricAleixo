@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Meus Status:</h2>
+<h2 align="left">🚀 Meus Status:</h2>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">Minhas redes sociais:</h2>
+<h2 align="left">📱 Minhas redes sociais:</h2>
 
 ###
 
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="50" alt="discord logo"  />
 </div>
 
-<h2 align="left">Tecnologias já dominadas:</h2>
+<h2 align="left">🔧  Tecnologias já dominadas:</h2>
 
 ###
 

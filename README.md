@@ -2,9 +2,15 @@
 
 ###
 
-<h4 align="left">Atualmente, atuo como desenvolvedor front-end 🌐 🎨</h4>
+<h4 align="left">Atualmente, atuo como desenvolvedor <strong>front-end</strong> 🌐 🎨</h4>
 
 ###
+
+<h2 align="left">Mais sobre mim:</h2>
+
+###
+
+<p align="left">✨ Aprender sobre tecnologia é divertido<br>📚 Estou aprendendo atualmente sobre construções de API's<br>🎯 Pontos fortes: lógica; experiência com design <br>🎲 Preferências: adoro programar de noite, e tudo que eu preciso é somente uma garrafa d'água</p>
 
 <h2 align="left">🚀 Meus Status:</h2>
 
@@ -49,6 +55,15 @@
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 
 ###
+</div>

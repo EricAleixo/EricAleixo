@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Aprender sobre tecnologia é divertido<br>📚 Estou aprendendo atualmente sobre construções de API's<br>🎯 Pontos fortes: lógica; experiência com design <br>🎲 Preferências: adoro programar de noite, e tudo que eu preciso é somente uma garrafa d'água</p>
+<p align="left">✨ Aprender sobre tecnologia é divertido<br>📚 Estou aprendendo atualmente sobre construções de API's<br>🎯 Pontos fortes: lógica; experiência com design <br>🎲 Preferências: adoro programar de noite, e tudo que eu preciso é somente uma garrafa de café</p>
 
 <h2 align="left">🚀 Meus Status:</h2>
 

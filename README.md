@@ -7,7 +7,7 @@
 
 ---
 
-### 🧑‍💻 Sobre mim
+<h3 align="center"> 🧑‍💻 Sobre mim </h3>
 <p align="center">
 Sou um <strong>desenvolvedor Full Stack</strong> dedicado e movido por desafios.<br/>
 Tenho interesse em transformar ideias em projetos reais, criando <strong>interfaces modernas e intuitivas</strong> e explorando o <strong>back-end</strong> para construir sistemas robustos e escaláveis.
@@ -22,7 +22,7 @@ Tenho interesse em transformar ideias em projetos reais, criando <strong>interfa
 
 ---
 
-### 🚀 Explorando agora
+<h3 align="center">🚀 Explorando agora</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -34,7 +34,7 @@ Tenho interesse em transformar ideias em projetos reais, criando <strong>interfa
 
 ---
 
-### 🛠️ Tech Stack
+<h3 align="center">🛠️ Tech Stack</h3>
 <p align="center">
 <strong>Frontend:</strong><br/>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=light" height="40"/>
@@ -57,7 +57,7 @@ Tenho interesse em transformar ideias em projetos reais, criando <strong>interfa
 
 ---
 
-### 🌐 Onde me encontrar
+<h3 align="center">🌐 Onde me encontrar</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/eric-aleixo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>

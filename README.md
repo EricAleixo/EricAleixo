@@ -1,59 +1,77 @@
-<h1 align="left">👋 Olá, me chamo Eric Aleixo!</h1>
-<h3 align="left">Desenvolvedor Full Stack apaixonado por tecnologia, aprendizado contínuo e desafios criativos 🚀</h3>
+<h1 align="center">👋 Olá, eu sou o Eric Aleixo!</h1>
+<h3 align="center">🚀 Desenvolvedor Full Stack | Criativo, curioso e focado em resultados</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF79C6&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Entusiasta+de+Tecnologia;Café+%2B+Código+%3D+Produtividade;Sempre+buscando+novos+desafios;Criatividade+%2B+Lógica+%3D+Resultados"/>
+</p>
 
 ---
 
 ### 🧑‍💻 Sobre mim
-Sou desenvolvedor **Full Stack** em constante evolução.  
-Gosto de construir **interfaces modernas e intuitivas**, mas também mergulhar no **back-end** para criar APIs robustas, seguras e escaláveis.  
+<p align="center">
+Sou um <strong>desenvolvedor Full Stack</strong> dedicado e movido por desafios.<br/>
+Tenho interesse em transformar ideias em projetos reais, criando <strong>interfaces modernas e intuitivas</strong> e explorando o <strong>back-end</strong> para construir sistemas robustos e escaláveis.
+</p>
 
-- ✨ Aprender sobre tecnologia é divertido  
-- 📚 Atualmente estudando **NestJS, Docker e testes automatizados**  
-- 🎯 Pontos fortes: lógica, design e resolução de problemas  
-- ☕ Melhor hora para programar? Madrugada + café  
-
----
-
-### 🚀 Status no GitHub
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=EricAleixo&show_icons=true&theme=nightowl&locale=pt-br" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EricAleixo&layout=compact&theme=nightowl&locale=pt-br" height="180"/>
-</div>
+<p align="center">
+- ✨ Focado em aprender novas tecnologias e boas práticas<br/>
+- 📚 Explorando atualmente <strong>Docker, AWS, Testes Automatizados e o ecossistema Spring</strong><br/>
+- 🎯 Pontos fortes: lógica, design e solução de problemas complexos<br/>
+- 💡 Busco constantemente otimizar código e entregar valor real
+</p>
 
 ---
 
-### 🛠️ Tecnologias
+### 🚀 Explorando agora
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Testes_Automatizados-15C213?style=for-the-badge&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+</p>
 
-**Frontend:**  
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular" height="40"/>
-
-**Backend:**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" height="40"/>
-
-**Banco de Dados:**  
-<img src="https://skillicons.dev/icons?i=postgresql,sqlite,mysql" height="40"/>
-
-**Ferramentas & DevOps:**  
-<img src="https://skillicons.dev/icons?i=git,github,docker" height="40"/>
 
 ---
 
-### 📌 Estudando agora
-- NestJS + PostgreSQL  
-- Docker & DevOps  
-- Testes automatizados  
+### 🛠️ Tech Stack
+<p align="center">
+<strong>Frontend:</strong><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=light" height="40"/>
+</p>
+
+<p align="center">
+<strong>Backend:</strong><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,nestjs,ruby&theme=light" height="40"/>
+</p>
+
+<p align="center">
+<strong>Banco de Dados:</strong><br/>
+<img src="https://skillicons.dev/icons?i=postgresql,sqlite&theme=light" height="40"/>
+</p>
+
+<p align="center">
+<strong>Ferramentas & DevOps:</strong><br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=light" height="40"/>
+</p>
 
 ---
 
 ### 🌐 Onde me encontrar
-<div align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/eric-aleixo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/eric.alxy/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-</div>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>

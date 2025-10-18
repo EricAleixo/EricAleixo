@@ -59,7 +59,7 @@ Tenho interesse em transformar ideias em projetos reais, criando <strong>interfa
 
 <h3 align="center">🌐 Onde me encontrar</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/eric-aleixo" target="_blank">
+  <a href="https://www.linkedin.com/in/eric-a-925061306/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/eric.alxy/" target="_blank">

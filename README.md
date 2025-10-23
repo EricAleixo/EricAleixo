@@ -62,7 +62,7 @@ Tenho interesse em transformar ideias em projetos reais, criando <strong>interfa
   <a href="https://www.linkedin.com/in/eric-a-925061306/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="[https://www.instagram.com/eric.alxy/](https://www.instagram.com/eric.aleixo/)" target="_blank">
+  <a href="https://www.instagram.com/eric.aleixo/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="#">

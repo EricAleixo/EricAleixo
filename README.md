@@ -22,9 +22,6 @@
   <a href="https://www.linkedin.com/in/eric-a-925061306/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Eric%20Aleixo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/EricAleixo" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-EricAleixo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
   <a href="https://www.instagram.com/eric.aleixo/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@eric.aleixo-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>

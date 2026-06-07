@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=6EE7B7&center=true&vCenter=true&width=620&lines=Full+Stack+Developer;Next.js+%7C+TypeScript+%7C+Ruby+on+Rails;Docker+%7C+AWS+%7C+Spring;Código+limpo+%2B+boas+práticas;Sempre+evoluindo%2C+sempre+entregando" alt="Typing SVG" />
 </p>
 
-<p align="center">🇧🇷 Brasil</p>
-
 <p align="center">
   Construo <strong>sistemas web escaláveis</strong>, <strong>interfaces modernas</strong> e <strong>APIs robustas</strong>.<br/>
   Foco em <strong>arquitetura limpa, performance e soluções orientadas a resultado</strong>.<br/>

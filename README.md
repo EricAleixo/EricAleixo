@@ -104,7 +104,7 @@
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EricAleixo&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-<p align="left">
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=EricAleixo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 

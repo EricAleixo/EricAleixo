@@ -98,11 +98,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EricAleixo&show_icons=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EricAleixo&show_icons=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricAleixo" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EricAleixo" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=EricAleixo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />

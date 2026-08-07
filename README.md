@@ -24,47 +24,9 @@
 <tr>
 <td width="60%" valign="top">
 
-<svg viewBox="0 0 760 350" xmlns="http://www.w3.org/2000/svg" width="100%">
-  <defs>
-    <clipPath id="winClip">
-      <rect x="0" y="0" width="760" height="350" rx="14"/>
-    </clipPath>
-    <linearGradient id="dotGrad" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#C4B5FD"/>
-      <stop offset="100%" stop-color="#6D28D9"/>
-    </linearGradient>
-  </defs>
+<img src="https://raw.githubusercontent.com/ericAleixo/ericAleixo/main/assets/terminal-about.svg" width="100%" alt="terminal about me"/>
 
-  <g clip-path="url(#winClip)">
-    <rect x="0" y="0" width="760" height="350" fill="#120B24"/>
-    <rect x="0" y="0" width="760" height="36" fill="#1B0B34"/>
-  </g>
-  <rect x="0.75" y="0.75" width="758.5" height="348.5" rx="14" fill="none" stroke="#6D28D9" stroke-width="1.5"/>
-
-  <circle cx="28" cy="18" r="6" fill="#C4B5FD"/>
-  <circle cx="48" cy="18" r="6" fill="#8B5CF6"/>
-  <circle cx="68" cy="18" r="6" fill="#6D28D9"/>
-  <text x="380" y="23" font-family="Consolas, Menlo, monospace" font-size="13" fill="#B9A6FF" text-anchor="middle">eric@core: ~/about-me</text>
-
-  <g font-family="Fira Code, Consolas, Menlo, monospace" font-size="14.5">
-    <text x="24" y="70"><tspan fill="#8B5CF6">eric@core</tspan><tspan fill="#E9E4FF">:~$ </tspan><tspan fill="#C4B5FD">whoami</tspan></text>
-    <text x="24" y="95" fill="#A78BFA">&gt; Eric Aleixo — Full Stack Developer</text>
-
-    <text x="24" y="130"><tspan fill="#8B5CF6">eric@core</tspan><tspan fill="#E9E4FF">:~$ </tspan><tspan fill="#C4B5FD">cat mission.log</tspan></text>
-    <text x="24" y="155" fill="#A78BFA">&gt; Construo sistemas web escaláveis, interfaces modernas</text>
-    <text x="36" y="175" fill="#A78BFA">e APIs robustas.</text>
-    <text x="24" y="200" fill="#A78BFA">&gt; Foco em arquitetura limpa, performance e soluções</text>
-    <text x="36" y="220" fill="#A78BFA">orientadas a resultado.</text>
-    <text x="24" y="245" fill="#A78BFA">&gt; Sempre em busca de novos desafios e formas de gerar</text>
-    <text x="36" y="265" fill="#A78BFA">valor real com tecnologia.</text>
-
-    <text x="24" y="300"><tspan fill="#8B5CF6">eric@core</tspan><tspan fill="#E9E4FF">:~$ </tspan><tspan fill="#C4B5FD">echo $STATUS</tspan></text>
-    <text x="24" y="325" fill="#E9E4FF">&gt; ONLINE — disponível para novos desafios</text>
-    <rect x="352" y="313" width="9" height="16" fill="#C4B5FD">
-      <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
-    </rect>
-  </g>
-</svg>
+<sub>⚠️ Precisa do arquivo <code>assets/terminal-about.svg</code> no seu repositório <code>ericAleixo/ericAleixo</code> (branch <code>main</code>) — veja abaixo.</sub>
 
 </td>
 <td width="40%" valign="top">
@@ -91,39 +53,39 @@
 
 **Frontend**
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=C4B5FD"/>
-<img src="https://img.shields.io/badge/React-1B0B34?style=for-the-badge&logo=react&logoColor=C4B5FD"/>
-<img src="https://img.shields.io/badge/TypeScript-1B0B34?style=for-the-badge&logo=typescript&logoColor=C4B5FD"/>
-<img src="https://img.shields.io/badge/TailwindCSS-1B0B34?style=for-the-badge&logo=tailwindcss&logoColor=C4B5FD"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
 **Backend**
 
-<img src="https://img.shields.io/badge/Ruby%20on%20Rails-1B0B34?style=for-the-badge&logo=rubyonrails&logoColor=C4B5FD"/>
-<img src="https://img.shields.io/badge/Node.js-1B0B34?style=for-the-badge&logo=node.js&logoColor=C4B5FD"/>
-<img src="https://img.shields.io/badge/Ruby-1B0B34?style=for-the-badge&logo=ruby&logoColor=C4B5FD"/>
-<img src="https://img.shields.io/badge/API%20REST-1B0B34?style=for-the-badge&logo=fastapi&logoColor=C4B5FD"/>
+<img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
+<img src="https://img.shields.io/badge/API%20REST-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
 **Banco de Dados**
 
-<img src="https://img.shields.io/badge/PostgreSQL-1B0B34?style=for-the-badge&logo=postgresql&logoColor=C4B5FD"/>
-<img src="https://img.shields.io/badge/MySQL-1B0B34?style=for-the-badge&logo=mysql&logoColor=C4B5FD"/>
-<img src="https://img.shields.io/badge/Redis-1B0B34?style=for-the-badge&logo=redis&logoColor=C4B5FD"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 
 **DevOps & Infra**
 
-<img src="https://img.shields.io/badge/Docker-1B0B34?style=for-the-badge&logo=docker&logoColor=C4B5FD"/>
-<img src="https://img.shields.io/badge/AWS-1B0B34?style=for-the-badge&logo=amazonaws&logoColor=C4B5FD"/>
-<img src="https://img.shields.io/badge/Nginx-1B0B34?style=for-the-badge&logo=nginx&logoColor=C4B5FD"/>
-<img src="https://img.shields.io/badge/Linux-1B0B34?style=for-the-badge&logo=linux&logoColor=C4B5FD"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 **Ferramentas**
 
-<img src="https://img.shields.io/badge/Git-1B0B34?style=for-the-badge&logo=git&logoColor=C4B5FD"/>
-<img src="https://img.shields.io/badge/GitHub-1B0B34?style=for-the-badge&logo=github&logoColor=C4B5FD"/>
-<img src="https://img.shields.io/badge/VS%20Code-1B0B34?style=for-the-badge&logo=visualstudiocode&logoColor=C4B5FD"/>
-<img src="https://img.shields.io/badge/Figma-1B0B34?style=for-the-badge&logo=figma&logoColor=C4B5FD"/>
-<img src="https://img.shields.io/badge/Postman-1B0B34?style=for-the-badge&logo=postman&logoColor=C4B5FD"/>
-<img src="https://img.shields.io/badge/Notion-1B0B34?style=for-the-badge&logo=notion&logoColor=C4B5FD"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 
 </div>
 
@@ -138,7 +100,7 @@
 ### 🔮 Projeto Um
 Breve descrição do que o projeto resolve e o problema real que ele ataca.
 
-<img src="https://img.shields.io/badge/Next.js-4C1D95?style=flat-square"/> <img src="https://img.shields.io/badge/TypeScript-4C1D95?style=flat-square"/> <img src="https://img.shields.io/badge/PostgreSQL-4C1D95?style=flat-square"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 
 [`→ ver repositório`](https://github.com/ericAleixo)
 
@@ -148,7 +110,7 @@ Breve descrição do que o projeto resolve e o problema real que ele ataca.
 ### 🛰️ Projeto Dois
 Breve descrição do que o projeto resolve e o problema real que ele ataca.
 
-<img src="https://img.shields.io/badge/Rails-4C1D95?style=flat-square"/> <img src="https://img.shields.io/badge/Docker-4C1D95?style=flat-square"/> <img src="https://img.shields.io/badge/AWS-4C1D95?style=flat-square"/>
+<img src="https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900"/>
 
 [`→ ver repositório`](https://github.com/ericAleixo)
 
@@ -160,7 +122,7 @@ Breve descrição do que o projeto resolve e o problema real que ele ataca.
 ### ⚡ Projeto Três
 Breve descrição do que o projeto resolve e o problema real que ele ataca.
 
-<img src="https://img.shields.io/badge/React-4C1D95?style=flat-square"/> <img src="https://img.shields.io/badge/Node.js-4C1D95?style=flat-square"/> <img src="https://img.shields.io/badge/Redis-4C1D95?style=flat-square"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 
 [`→ ver repositório`](https://github.com/ericAleixo)
 
@@ -170,7 +132,7 @@ Breve descrição do que o projeto resolve e o problema real que ele ataca.
 ### 🧩 Projeto Quatro
 Breve descrição do que o projeto resolve e o problema real que ele ataca.
 
-<img src="https://img.shields.io/badge/API-4C1D95?style=flat-square"/> <img src="https://img.shields.io/badge/TailwindCSS-4C1D95?style=flat-square"/> <img src="https://img.shields.io/badge/CI%2FCD-4C1D95?style=flat-square"/>
+<img src="https://img.shields.io/badge/API-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/CI%2FCD-2496ED?style=flat-square&logo=githubactions&logoColor=white"/>
 
 [`→ ver repositório`](https://github.com/ericAleixo)
 
@@ -220,8 +182,47 @@ disponibilidade: "aberto a colaborações e novos projetos"
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ericAleixo&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ericAleixo&theme=algolia&row=1&column=6" width="95%"/>
 </div>
+
+<details>
+<summary><strong>⚠️ Trophies não carregando? Leia isso</strong></summary>
+
+<br/>
+
+O `github-profile-trophy.vercel.app` é um serviço gratuito mantido por voluntários e, por sobrecarga, vive instável ou fora do ar — **não é um erro no seu README**. Teste abrir a URL da imagem direto no navegador; se der 502/504, é o serviço mesmo.
+
+Solução definitiva (self-host via GitHub Actions, gera um SVG estático no seu próprio repositório): adicione isto em `.github/workflows/trophy.yml`:
+
+```yaml
+name: Generate Trophies
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  trophy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: denoland/setup-deno@v1
+      - run: |
+          git clone --depth 1 https://github.com/ryo-ma/github-profile-trophy.git /tmp/trophy
+          cd /tmp/trophy
+          deno run --allow-net --allow-env --allow-read --allow-write ./render_svg.ts ericAleixo /tmp/output algolia
+          mkdir -p $GITHUB_WORKSPACE/assets
+          cp /tmp/output/*.svg $GITHUB_WORKSPACE/assets/trophy.svg
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update trophy svg"
+```
+
+Depois troque a `<img>` dos Trophies para:
+`https://raw.githubusercontent.com/ericAleixo/ericAleixo/main/assets/trophy.svg`
+
+</details>
 
 <br/>
 

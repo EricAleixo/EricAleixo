@@ -26,8 +26,6 @@
 
 <img src="https://raw.githubusercontent.com/ericAleixo/ericAleixo/main/assets/terminal-about.svg" width="100%" alt="terminal about me"/>
 
-<sub>⚠️ Precisa do arquivo <code>assets/terminal-about.svg</code> no seu repositório <code>ericAleixo/ericAleixo</code> (branch <code>main</code>) — veja abaixo.</sub>
-
 </td>
 <td width="40%" valign="top">
 
@@ -140,7 +138,6 @@ Breve descrição do que o projeto resolve e o problema real que ele ataca.
 </tr>
 </table>
 
-> Pin manualmente seus repositórios reais na aba **Customize your pins** do GitHub para eles aparecerem aqui como cards oficiais.
 
 <br/>
 

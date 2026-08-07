@@ -182,7 +182,7 @@ disponibilidade: "aberto a colaborações e novos projetos"
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ericAleixo&theme=algolia&row=1&column=6" width="95%"/>
+<img src="https://raw.githubusercontent.com/ericAleixo/ericAleixo/main/assets/trophy.svg" width="95%"/>
 </div>
 
 <details>
@@ -193,34 +193,6 @@ disponibilidade: "aberto a colaborações e novos projetos"
 O `github-profile-trophy.vercel.app` é um serviço gratuito mantido por voluntários e, por sobrecarga, vive instável ou fora do ar — **não é um erro no seu README**. Teste abrir a URL da imagem direto no navegador; se der 502/504, é o serviço mesmo.
 
 Solução definitiva (self-host via GitHub Actions, gera um SVG estático no seu próprio repositório): adicione isto em `.github/workflows/trophy.yml`:
-
-```yaml
-name: Generate Trophies
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  trophy:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: denoland/setup-deno@v1
-      - run: |
-          git clone --depth 1 https://github.com/ryo-ma/github-profile-trophy.git /tmp/trophy
-          cd /tmp/trophy
-          deno run --allow-net --allow-env --allow-read --allow-write ./render_svg.ts ericAleixo /tmp/output algolia
-          mkdir -p $GITHUB_WORKSPACE/assets
-          cp /tmp/output/*.svg $GITHUB_WORKSPACE/assets/trophy.svg
-      - uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: update trophy svg"
-```
-
-Depois troque a `<img>` dos Trophies para:
-`https://raw.githubusercontent.com/ericAleixo/ericAleixo/main/assets/trophy.svg`
 
 </details>
 
@@ -236,38 +208,6 @@ Depois troque a `<img>` dos Trophies para:
 <summary><strong>⚙️ Como ativar a Snake Animation no seu perfil</strong></summary>
 
 <br/>
-
-1. Crie o arquivo `.github/workflows/snake.yml` no repositório `ericAleixo/ericAleixo`:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-2. Faça o commit — a Action gera o SVG automaticamente na branch `output` a cada 6 horas.
 
 </details>
 

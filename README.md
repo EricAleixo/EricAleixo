@@ -20,19 +20,9 @@
 
 ## 🧬 Sobre Mim
 
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
-
 <p align="center">
-  <img
-    src="./assets/banner.png"
-    alt="Banner"
-    width="100%"
-  />
+  <img src="https://raw.githubusercontent.com/ericAleixo/ericAleixo/main/assets/terminal-about.svg" width="100%" alt="terminal about me"/>
 </p>
-
-## 🧬 Sobre Mim
 
 ### 🧠 O que eu faço
 

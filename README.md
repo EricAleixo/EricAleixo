@@ -24,12 +24,17 @@
 <tr>
 <td width="60%" valign="top">
 
-<img src="https://raw.githubusercontent.com/ericAleixo/ericAleixo/main/assets/terminal-about.svg" width="100%" alt="terminal about me"/>
+<p align="center">
+  <img
+    src="./assets/banner.png"
+    alt="Banner"
+    width="100%"
+  />
+</p>
 
-</td>
-<td width="40%" valign="top">
+## 🧬 Sobre Mim
 
-**🧠 O que eu faço**
+### 🧠 O que eu faço
 
 - 🏗️ Sistemas web escaláveis e full stack
 - ⚡ Otimização de performance & UX
@@ -38,10 +43,6 @@
 - 🤖 Automações e integrações entre serviços
 - 📊 Dashboards e visualização de dados
 - 🎓 Aprendizado contínuo e compartilhamento de conhecimento
-
-</td>
-</tr>
-</table>
 
 <br/>
 

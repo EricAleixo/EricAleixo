@@ -24,26 +24,47 @@
 <tr>
 <td width="60%" valign="top">
 
-```bash
-eric@core:~$ whoami
+<svg viewBox="0 0 760 350" xmlns="http://www.w3.org/2000/svg" width="100%">
+  <defs>
+    <clipPath id="winClip">
+      <rect x="0" y="0" width="760" height="350" rx="14"/>
+    </clipPath>
+    <linearGradient id="dotGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#C4B5FD"/>
+      <stop offset="100%" stop-color="#6D28D9"/>
+    </linearGradient>
+  </defs>
 
-> Nome ......... Eric Aleixo
-> Cargo ......... Full Stack Developer
-> Stack core .... Next.js · TypeScript · Ruby on Rails
-> Infra ......... Docker · AWS
-> Status ........ [ONLINE] disponível para novos desafios
+  <g clip-path="url(#winClip)">
+    <rect x="0" y="0" width="760" height="350" fill="#120B24"/>
+    <rect x="0" y="0" width="760" height="36" fill="#1B0B34"/>
+  </g>
+  <rect x="0.75" y="0.75" width="758.5" height="348.5" rx="14" fill="none" stroke="#6D28D9" stroke-width="1.5"/>
 
-eric@core:~$ cat mission.log
+  <circle cx="28" cy="18" r="6" fill="#C4B5FD"/>
+  <circle cx="48" cy="18" r="6" fill="#8B5CF6"/>
+  <circle cx="68" cy="18" r="6" fill="#6D28D9"/>
+  <text x="380" y="23" font-family="Consolas, Menlo, monospace" font-size="13" fill="#B9A6FF" text-anchor="middle">eric@core: ~/about-me</text>
 
-[+] Construo sistemas web escaláveis, interfaces modernas
-    e APIs robustas.
-[+] Foco em arquitetura limpa, performance e soluções
-    orientadas a resultado.
-[+] Sempre em busca de novos desafios e formas de gerar
-    valor real com tecnologia.
+  <g font-family="Fira Code, Consolas, Menlo, monospace" font-size="14.5">
+    <text x="24" y="70"><tspan fill="#8B5CF6">eric@core</tspan><tspan fill="#E9E4FF">:~$ </tspan><tspan fill="#C4B5FD">whoami</tspan></text>
+    <text x="24" y="95" fill="#A78BFA">&gt; Eric Aleixo — Full Stack Developer</text>
 
-eric@core:~$ _
-```
+    <text x="24" y="130"><tspan fill="#8B5CF6">eric@core</tspan><tspan fill="#E9E4FF">:~$ </tspan><tspan fill="#C4B5FD">cat mission.log</tspan></text>
+    <text x="24" y="155" fill="#A78BFA">&gt; Construo sistemas web escaláveis, interfaces modernas</text>
+    <text x="36" y="175" fill="#A78BFA">e APIs robustas.</text>
+    <text x="24" y="200" fill="#A78BFA">&gt; Foco em arquitetura limpa, performance e soluções</text>
+    <text x="36" y="220" fill="#A78BFA">orientadas a resultado.</text>
+    <text x="24" y="245" fill="#A78BFA">&gt; Sempre em busca de novos desafios e formas de gerar</text>
+    <text x="36" y="265" fill="#A78BFA">valor real com tecnologia.</text>
+
+    <text x="24" y="300"><tspan fill="#8B5CF6">eric@core</tspan><tspan fill="#E9E4FF">:~$ </tspan><tspan fill="#C4B5FD">echo $STATUS</tspan></text>
+    <text x="24" y="325" fill="#E9E4FF">&gt; ONLINE — disponível para novos desafios</text>
+    <rect x="352" y="313" width="9" height="16" fill="#C4B5FD">
+      <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
 
 </td>
 <td width="40%" valign="top">
@@ -270,8 +291,6 @@ jobs:
 
 ⭐ **Se curtiu algum projeto, deixe uma estrela — isso faz diferença**
 🤝 **Aberto a colaborações, parcerias e projetos desafiadores**
-
-<img src="https://komarev.com/ghpvc/?username=ericaleixo&style=for-the-badge&color=6D28D9&label=VISUALIZAÇÕES" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C4B5FD,50:6D28D9,100:1B0B34&height=120&section=footer" width="100%"/>
 

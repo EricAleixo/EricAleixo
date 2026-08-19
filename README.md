@@ -32,7 +32,7 @@ Modern developer and student passionate about building solutions and solving rea
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,50:9D4EDD,100:C77DFF&height=3&section=header" width="100%" />
+
 
 <h2 align="left">⚙️ Back-end</h2>
 
@@ -50,7 +50,7 @@ Modern developer and student passionate about building solutions and solving rea
   <img src="https://cdn.simpleicons.org/rubyonrails/CC0000" height="40" alt="rails logo"  />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,50:9D4EDD,100:C77DFF&height=3&section=header" width="100%" />
+
 
 <h2 align="left">☁️ DevOps & Infra</h2>
 
@@ -68,7 +68,7 @@ Modern developer and student passionate about building solutions and solving rea
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,50:9D4EDD,100:C77DFF&height=3&section=header" width="100%" />
+
 
 <h2 align="left">🗄️ Databases</h2>
 
@@ -82,14 +82,13 @@ Modern developer and student passionate about building solutions and solving rea
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,50:9D4EDD,100:C77DFF&height=3&section=header" width="100%" />
+
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/ericAleixo/ericAleixo/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/ericAleixo/ericAleixo/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,50:9D4EDD,100:C77DFF&height=3&section=header" width="100%" />
 
 <div data-importer="socials" align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -100,20 +99,16 @@ Modern developer and student passionate about building solutions and solving rea
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,50:9D4EDD,100:C77DFF&height=3&section=header" width="100%" />
-
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ericAleixo/ericAleixo/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ericAleixo/ericAleixo/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ericAleixo/ericAleixo/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,50:9D4EDD,100:C77DFF&height=3&section=header" width="100%" />
+
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/ericAleixo/ericAleixo/activity-graph-output/activity-graph.svg?radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
   <img src="https://raw.githubusercontent.com/ericAleixo/ericAleixo/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://streak-stats.demolab.com?user=ericAleixo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,50:9D4EDD,100:C77DFF&height=3&section=header" width="100%" />

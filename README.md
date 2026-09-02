@@ -21,6 +21,8 @@ I also have experience/contact with Ruby on Rails, Python/FastAPI, React Native/
 **Front-end**
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
@@ -80,29 +82,18 @@ I also have experience/contact with Ruby on Rails, Python/FastAPI, React Native/
 
 ## Featured Projects
 
-### 🔹 StudyHub
-A project focused on hands-on learning and practical application of modern technologies.
-**Stack:** Next.js, TypeScript, NestJS, Prisma, PostgreSQL
-
-### 🔹 CRM / Marketing
-A CRM with marketing-oriented features and integration with Meta, including Meta account connection management and ad-related modules.
-**Stack:** Java, Spring Boot (backend) · React ecosystem (frontend)
-
-### 🔹 SIGAN — Sistema Integrado de Gerenciamento Acadêmico
-An academic management system with dedicated features for different user roles (Coordinator, Professor, Student).
-**Stack:** Spring Boot, JPA, JWT-based authentication and role-based authorization
+### 🔹 [Portal NE1](https://portalne1.com/)
+A news portal focused on the Brazilian Northeast, built with an SSR-first approach for maximum SEO and search-engine performance. Every article page is rendered on the server with dynamic metadata (title, description, Open Graph, and JSON-LD for Google News indexing), so content reaches crawlers as complete HTML with no reliance on client-side JavaScript. The platform covers politics, sports, education, tourism, and entertainment, plus a dedicated "Notícias do Passado" section that revisits historical journalistic records from the region.
+**Stack:** Next.js 15 (App Router), TypeScript, Drizzle ORM, Tailwind CSS, PostgreSQL, Docker, AWS S3
+🌐 **Live:** [portalne1.com](https://portalne1.com/)
 
 ### 🔹 Turmaria
-A school management system.
+An academic/school management system (Sistema de Gerenciamento Acadêmico).
 **Stack:** Ruby on Rails
 
 ### 🔹 Sonix
 A music playback/management project.
 **Stack:** Next.js, FastAPI, PostgreSQL, Docker
-
-### 🔹 StockFlow
-A product/inventory management project, with future integrations planned around automation and WhatsApp.
-**Stack:** Java
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,50:9D4EDD,100:C77DFF&height=3&section=header" width="100%" />
 

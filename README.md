@@ -88,12 +88,12 @@ A news portal focused on the Brazilian Northeast, built with an SSR-first approa
 🌐 **Live:** [portalne1.com](https://portalne1.com/)
 
 ### 🔹 Turmaria
-An academic/school management system (Sistema de Gerenciamento Acadêmico).
+An academic management system designed for municipal school departments (prefeituras), built to be a complete, all-in-one platform for running a school's daily academic operations. It centralizes grades, activities/assignments, and subjects/disciplines, giving administrators, teachers, and staff a single portal to manage the full academic lifecycle instead of juggling multiple disconnected tools.
 **Stack:** Ruby on Rails
 
 ### 🔹 Sonix
-A music playback/management project.
-**Stack:** Next.js, FastAPI, PostgreSQL, Docker
+A music streaming/download platform that combines a Python backend with a Next.js frontend. The Python service (FastAPI) handles fetching and downloading tracks from YouTube, converting them into playable audio files, while the Next.js 16 frontend renders the catalog and provides a full music player experience — search, browse, and playback — on top of the tracks the backend retrieves.
+**Stack:** Next.js 16, Python (FastAPI), PostgreSQL, Docker
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,50:9D4EDD,100:C77DFF&height=3&section=header" width="100%" />
 

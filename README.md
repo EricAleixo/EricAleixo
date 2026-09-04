@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Eric Aleixo da Silva 👋🇧🇷</h1>
+<h1 align="center">Hi, I'm Eric Aleixo 👋🇧🇷</h1>
 
 <h3 align="center">Software Developer · Computer Science Student @ UFPB</h3>
 
